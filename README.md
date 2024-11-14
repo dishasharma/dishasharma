@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishasharma" alt="dishasharma" /></a> </p>
 
-- 🔭 I’m currently working on **genetic risk of cardiovascular disoder**
+- 🔭 I’m currently working on **Understanding the genetic risk of cardiovascular disoder using Single-Cell Multiomics, CRISPR-Screens and Large Biobank Datasets**
 
-- 🌱 I’m currently learning **AI and BioLLM**
+- 🌱 I’m currently learning **Statistics Genetics, AI and BioLLM**
 
-- 👯 I’m looking to collaborate on **Cardiovascular, Metabolic, single cell omics, Multimodal integration**
+- 👯 I’m looking to collaborate on **Cardiovascular, Metabolic, single cell omics, Multimodalities integration**
 
-- 💬 Ask me about **Single Cell and bulk multi omics, rare and complex disorders, population genomics**
+- 💬 Ask me about **Bulk- and Single-Cell Multiomics, Population Genomics, Rare and Complex disorders**
 
-- 📫 How to reach me **dishasharma35@gmail.com**
+- 📫 How to reach me **dishas@stanford,edu, dishasharma35@gmail.com**
 
 - 📄 Know about my experiences [https://profiles.stanford.edu/disha-sharma](https://profiles.stanford.edu/disha-sharma)
 
